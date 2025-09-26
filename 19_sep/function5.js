@@ -8,4 +8,11 @@ let addition=(a,b)=>
     let result=a+b
     console.log(result)
 }
-addition(a,b)
+addition(a,b);
+
+let sub=(a,b)=>
+{
+    let res=a-b
+    console.log(res)
+}
+sub(a,b)
