@@ -22,8 +22,5 @@ console.log(empobj1)
 empobj1.contact.emailid='xyzitview@gmail.com'
 console.log(empobj1)
 
-
-
-
 Object.freeze(empobj1)//by using this function of object we can not add delete ann modify any property in existing object
 empobj1.exprience()
